@@ -1,1 +1,3 @@
 # Python-game
+
+It's a single player game called Dodge the Cats. The player is controlling the mouse to dodge the cats that dropped from the sky which is the top of the screen. The player must use "W","A","S","D" or "Up","Down","Left","Right" keys to move the mouse in order to dodge the cats. Once a cat goes on the ground which is the bottom of the screen without hitting the mouse, the player gains 1 point. The speed of dropping cats will increase after the player reaches the certain score. Once the cat hits the mouse, the player loses 1 life out of 3 and the mouse will be repositioned.  Once the player loses all 3 lives, the game will be over. 
